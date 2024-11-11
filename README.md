@@ -1,5 +1,6 @@
 # CodeHS AutoGrader - Verify Coin Flips Output
-Short description of project
+Example of logic needed in a CodeHS AutoGrader to verify that the student
+output contains the correctly formatted information.
 ## Tools Used
 
 | Tool     |  Version |
