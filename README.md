@@ -6,7 +6,7 @@ output contains the correctly formatted information.
 
 * [Creating AutoGraders](https://help.codehs.com/en/articles/2119075-creating-autograders-to-check-student-code)
 * [Creating a Python AutoGrader](https://help.codehs.com/en/articles/6457845-creating-a-general-python-autograder)
-* 
+
 ## Tools Used
 
 | Tool     |  Version |
