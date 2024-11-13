@@ -4,7 +4,7 @@ import re
 def verify_student_output():
     """
     ^ asserts the start of the string.
-    \d+ matches one or more digits (the number).
+    \\d+ matches one or more digits (the number).
     : matches the colon.
     matches a single space.
     (Heads|heads|Tails|tails) matches either "Heads," "heads," "Tails," or "tails."
