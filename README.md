@@ -17,7 +17,8 @@ output contains the correctly formatted information.
 
 ## Change History
 
-| Date       | Description                          |
-|:-----------|:-------------------------------------|
-| 2024-11-10 | Initial creation                     |
-| 2024-11-13 | Verify code runs in PyCharm 2024.3.0 |
+| Date       | Description                                  |
+|:-----------|:---------------------------------------------|
+| 2024-11-10 | Initial creation                             |
+| 2024-11-13 | Verify code runs in PyCharm 2024.3.0         |
+| 2024-11-16 | Display version of Python used in the output |
